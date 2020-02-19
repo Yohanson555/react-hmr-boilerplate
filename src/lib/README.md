@@ -1,0 +1,1 @@
+This folder uses to store project's classes and functions

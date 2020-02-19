@@ -1,0 +1,9 @@
+.todo-app-container {
+    text-align: center;
+    margin: 40px auto;
+    max-width: 600px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+
+    border-radius: 3px;
+}

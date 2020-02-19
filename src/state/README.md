@@ -1,0 +1,1 @@
+This folder is for all redux state stuff: reducers, actions, actions types etc.

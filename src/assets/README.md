@@ -1,0 +1,1 @@
+This folder is for different project's assets like images, styles, fonts etc.
